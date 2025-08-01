@@ -1,4 +1,4 @@
-# Power BI Project Documentation
+# Sales Analytics Power BI Project Documentation
 
 ---
 
